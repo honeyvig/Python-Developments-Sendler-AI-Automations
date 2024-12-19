@@ -1,4 +1,4 @@
-# Python-Developments-Sendlet-AI-Automations
+# Python-Developments-Sendler-AI-Automations
 We are seeking a skilled and motivated Python Developer to join our dynamic team. The ideal candidate will have a strong background in Python programming and experience with various aspects of software development, including unit testing, database management, and version control. This role requires a detail-oriented individual who can work collaboratively with cross-functional teams to deliver high-quality software solutions.
 Key Responsibilities:
 - Develop, test, and maintain high-quality Python code for various applications.
